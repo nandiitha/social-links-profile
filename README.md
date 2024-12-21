@@ -26,8 +26,8 @@ Make this interactive with keyboard and aligning images and social media links i
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/social-links-profile-kXMcdir8oD)
+- Live Site URL: [Add live site URL here](https://nandiitha.github.io/social-links-profile/)
 
 ### Built with
 
