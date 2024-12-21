@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Inter";
+  box-sizing: border-box;
+  font-size: 14px;
+}
+body {
+  background-color: hsl(0, 0%, 8%);
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  margin: 0;
+  pointer-events: none;
+}
+.card {
+  height: 500px;
+  background: hsl(0, 0%, 12%);
+  width: 300px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.avatar {
+  height: 80px;
+  width: 80px;
+  border-radius: 40px;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.name {
+  color: hsl(0, 0%, 100%);
+  text-align: center;
+  font-weight: 700;
+  font-size: 18px;
+}
+.location {
+  color: hsl(75, 94%, 57%);
+  margin-bottom: 1rem;
+  margin-top: 0.5rem;
+}
+.caption {
+  color: hsl(0, 0%, 100%);
+
+  margin-bottom: 1rem;
+}
+.link-tabs {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.tab-blocks {
+  color: hsl(0, 0%, 100%);
+  border-radius: 10px;
+  height: 40px;
+  width: 250px;
+  background-color: hsl(0, 0%, 20%);
+  padding: 10px 20px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  position: fixed;
+  bottom: 10px;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
